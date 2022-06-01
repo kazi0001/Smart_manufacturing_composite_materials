@@ -8,3 +8,6 @@
 • System identification through sparse identification of nonlinear dynamical systems.
 
 • An approach for smart manufacturing focusing on Industry 4.0.
+
+Details can be found in the following published journal:
+https://doi.org/10.1016/j.compstruct.2020.113207
